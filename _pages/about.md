@@ -12,12 +12,7 @@ I am a PhD student at the Department of Economics, National University of Singap
 
 I am interested in the micro-economics when there is a lack of information. I work on decision making under risk/uncertainty, incomplete information game theory, and the more applied information design problems.
 
-Prior to joining NUS, I obtained my bachelor's degree in mathematics and physics and double degree in economics from Tsinghua University.
-
-CV
-======
-Here is my CV (link).
-Contact: xinhan.zhang@u.nus.edu
+Prior to joining NUS, I obtained my bachelor's degree in mathematics and physics, and double degree in economics from Tsinghua University. Here is my CV (link).
 
 Working Papers
 ======
