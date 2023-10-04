@@ -12,17 +12,17 @@ I am a PhD student at the Department of Economics, National University of Singap
 
 I am interested in the micro-economics when there is a lack of information. I work on decision making under risk/uncertainty, incomplete information game theory, and the more applied information design problems.
 
-Prior to joining NUS, I obtained my bachelor's degree in mathematics and physics, and double degree in economics from Tsinghua University. Here is my CV (https://github.com/xinhanzhang/files/CV1023.pdf).
+Prior to joining NUS, I obtained my bachelor's degree in mathematics and physics, and double degree in economics from Tsinghua University. Here is my [CV](https://github.com/xinhanzhang/files/CV1023.pdf).
 
 Working Papers
 ======
-1. Consistency and Pairwise Consistency (link)
+1. Consistency and Pairwise Consistency (link) (with Yi-Chun Chen)
 
    Abstract：
 
    We study the finite Harsanyi model where each agent's type is associated with a posterior belief over some fundamental uncertainty and type profiles of other agents. We show that if the agents' posteriors have full support, the model admits a common prior (i.e., is consistent in Harsanyi's sense) if and only if any pair of agents have a common prior. We extend the result to Aumann models where posteriors need not have full support but satisfy a condition called _double irreducibility_ which strengthens the irreducibility condition of Samet (1998). Our results imply circumstances where characterizations of consistency such as the no-trade theorems and the convergence of higher-order expectations reduce to the corresponding characterizations for pairwise consistency.
    
-1. Correlated Utility Theory -  An Optimal Transport Approach (link)
+1. Correlated Utility Theory - An Optimal Transport Approach (link) (with Yi-Chun Chen, Soo Hong Chew)
 
    Abstract:
 
@@ -31,7 +31,7 @@ correlation-sensitive representation including the skew-symmetric model of Lanza
 
 Work in Progress
 ======
-1. Alas
+1. Optimal Persuasion: A Linear Programming Approach (with Yi-Chun Chen)
 
 Teaching
 ======
