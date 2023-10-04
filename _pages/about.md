@@ -10,11 +10,14 @@ redirect_from:
 
 I am a PhD student at the Department of Economics, National University of Singapore.
 
-I am interested in the micro-economics when there is a lack of information. I've worked on topics including decision making under risk/uncertainty, incomplete information game theory, and more applied information design problems. 
+I am interested in the micro-economics when there is a lack of information. I work on decision making under risk/uncertainty, incomplete information game theory, and the more applied information design problems.
+
+Prior to joining NUS, I obtained my bachelor's degree in mathematics and physics and double degree in economics from Tsinghua University.
 
 CV
 ======
-
+Here is my CV (link).
+Contact: xinhan.zhang@u.nus.edu
 
 Working Papers
 ======
@@ -32,7 +35,9 @@ Working Papers
 correlation-sensitive representation including the skew-symmetric model of Lanzani (2022)) which in turn Beyond skew symmetry, our approach includes as special case the expectations-based reference dependent utility model of Koszegi and Rabin (2007) applied to binary choice. By applying the Kantorovich duality to the primal problem based on the correlation-sensitive representation, we obtain a dual problem that reduces to an expected utility representation when the decision maker is insensitive to correlation.
 
 Work in Progress
-------
+======
 1. Alas
 
-
+Teaching
+======
+Teaching assistant for PhD modules: Microeconomic Theory, Advanced Microeconomic Theory, Mathematical Economics (NUS).
