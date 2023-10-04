@@ -23,11 +23,11 @@ Working Papers
 **2. Correlated Utility Theory - An Optimal Transport Approach** (with Yi-Chun Chen, Soo Hong Chew)
 
    We provide a unifying perspective on two seemingly unrelated strands of the literature: decision-making under risk and the modern theory of optimal transport originated in Kantorovich (1939). This is accomplished by axiomatically generalizing the classical theory of nontransitive binary choice, called correlated expected utility, a la Fishburn (1982) and Lanzani (2022) which satisfies skew symmetry and provides a shared foundation to regret theory (Bell, 1982; Loomes and Sugden, 1982, 1987) and salience theory (Bordalo, Gennaioli, and Shleifer, 2012). For pairs of correlated lotteries by axiomatizing a general
-correlation-sensitive representation including the skew-symmetric model of Lanzani (2022)) which in turn Beyond skew symmetry, our approach includes as special case the expectations-based reference dependent utility model of Koszegi and Rabin (2007) applied to binary choice. By applying the Kantorovich duality to the primal problem based on the correlation-sensitive representation, we obtain a dual problem that reduces to an expected utility representation when the decision maker is insensitive to correlation.
+correlation-sensitive representation including the skew-symmetric model of Lanzani (2022) which in turn Beyond skew symmetry, our approach includes as special case the expectations-based reference dependent utility model of Koszegi and Rabin (2007) applied to binary choice. By applying the Kantorovich duality to the primal problem based on the correlation-sensitive representation, we obtain a dual problem that reduces to an expected utility representation when the decision maker is insensitive to correlation.
 
-Work in Progress
-======
-1. Optimal Persuasion: A Linear Programming Approach (with Yi-Chun Chen)
+#Work in Progress
+#======
+#1. Optimal Persuasion: A Linear Programming Approach (with Yi-Chun Chen)
 
 Teaching
 ======
