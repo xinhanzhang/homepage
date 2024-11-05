@@ -1,4 +1,3 @@
-{% seo %}
 ---
 
 permalink: /
