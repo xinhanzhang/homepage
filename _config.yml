@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-<meta name="google-site-verification" content="5uoWGtPTZo5Hq6yqN_gBdCeEU9gVHN4swGAY_7MhyPw" />
+
 locale                   : "en-US"
 title                    : "Xinhan Zhang"
 title_separator          : "-"
