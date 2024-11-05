@@ -43,6 +43,7 @@ applicants.
 Work in Progress
 ======
 **1. Belief Consistency and Dutch Book** (with Yi-Chun Chen)
+
 **2. Correlation Preference Aggregation** (with Yi-Chun Chen, Soo Hong Chew)
 
 Teaching
