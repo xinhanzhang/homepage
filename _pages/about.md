@@ -1,5 +1,6 @@
----
 {% seo %}
+---
+
 permalink: /
 title: "Hi there, this is Xinhan!"
 excerpt: "About me"
