@@ -13,7 +13,7 @@ I am a postdoctoral fellow at IGIER, Bocconi.
 
 I am a theorist with focus in decision theory and information economics. I am motivated in understanding the process of how economic agents perceive risk, uncertainty and information, update beliefs, and make corresponding economic decisions. 
 
-Prior to joining IGIER, I obtained my PhD at the Department of Economics, National University of Singapore (NUS), and my bachelor's degree in mathematics and physics and double degree in economics from Tsinghua University. Here is my [CV](https://github.com/xinhanzhang/homepage/blob/d561ab52c6752256006f9a25d4f31d242c46e83c/files/CV_Nov24.pdf).
+Prior to joining IGIER, I obtained my PhD at the Department of Economics, National University of Singapore (NUS), and my bachelor's degree in mathematics and physics and double degree in economics from Tsinghua University. Here is my [CV](files/CV_Nov24.pdf).
 
 Working Papers
 ======
