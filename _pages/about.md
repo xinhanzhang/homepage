@@ -29,23 +29,13 @@ corresponding respectively to the correlation counterparts of the independence a
 utility: betweenness and projective independence. The resulting correlation expected utility and correlation weighted utility can be discriminated using
 recent evidence of correlation-sensitive Allais behavior which supports the latter model rather than the former.
 
-**3. Age Discrimination in Hiring: Evidence from Online Job Ads** (with Qinyue Luo, Liaoliang Zhang)
-
-   We analyze explicit age discrimination decisions by employers and job seekers’ responses to them in the Chinese labor market, based on a large-scale
-national job ads dataset of more than 7.6 million job postings from November 2018 to April 2019, with 48% postings specifically excluding certain age groups.
-Discrimination decisions vary significantly across firm types, sizes, industries, and occupations. Factors such as expected processing costs, competition in labor
-demand, job skill requirements, and ageist languages play a crucial role in discrimination decisions, highlighting both search-related concerns and tastebased
-discrimination. These results are consistent with a labor demand model where employers decide whether to consider (undesired) candidates from an additional
-age group based on their search factors and preferences. Additionally, we offer a labor supply model where applicants consider firms’ age requirements
-as signals rather than hard rules. We find that job seekers indeed do not fully comply with firms’ explicit age preferences and non-compliance is higher for job
-postings with more skill requirements. Nonetheless, the use of age discrimination tends to attract younger workers while negatively correlated with skilled
-applicants.
-
 Work in Progress
 ======
 **1. Belief Consistency and Dutch Book** (with Yi-Chun Chen)
 
 **2. Correlation Preference Aggregation** (with Yi-Chun Chen, Soo Hong Chew)
+
+**3. Age Discrimination in Hiring: Evidence from Online Job Ads** (with Qinyue Luo, Liaoliang Zhang)
 
 Teaching
 ======
